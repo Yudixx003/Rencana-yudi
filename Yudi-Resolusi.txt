@@ -1,5 +1,7 @@
 Yudi Resolusi
 -Konsisten Belajar web dan trading
+    *Mempelajari Dasar Pembuatan Website(HTML, CSS DAN JAVASCRIPT)
+    *Mempelajari framework dalam pembuatan sebuah website
 -Mengelola bisnis pembuatan sebuah website n digital marketing
 -Membangun Trading Crypto Community 
 -Building Network dengan orang orang berpengalaman
