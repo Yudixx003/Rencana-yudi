@@ -1,7 +1,12 @@
 Rencana Belajar Website
 
 - Html
+    *Tag & Atributes
+    *Form
 - Css
+    *Flex
+    *Css Grid
 - Javascript Dasar
 - Javascript Framework
+    *React
 - Php Framework
